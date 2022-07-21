@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://iammohammadali.ir/sitemap/sitemap-index.xml
+Host: https://iammohammadali.ir
